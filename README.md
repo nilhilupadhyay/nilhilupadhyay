@@ -153,18 +153,29 @@ me.say_hi()
 
 ## 💼 Work Experience
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  🤖  LLM Post-Training Intern — Ethara.AI          Jan 2026 – Present  │
-│  ├─ Improving model alignment by 25% using SFT & RLHF             │
-│  ├─ Executing HITL evaluation workflows                            │
-│  └─ Ensuring 95%+ response quality adherence                      │
-├──────────────────────────────────────────────────────────────────┤
-│  🏛️  Student Intern — Vaishno Devi Shrine Board    Feb–Mar 2025       │
-│  ├─ RFID-based visitor flow automation                             │
-│  └─ Reduced entry congestion by 10% for 10,000+ daily visitors    │
-└──────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td>
+      <h3>🤖 LLM Post-Training Intern — <a href="http://Ethara.AI">Ethara.AI</a></h3>
+      <img src="https://img.shields.io/badge/Jan%202026-Present-4FC3F7?style=flat-square" />
+      <ul>
+        <li>Improved model alignment by <strong>25%</strong> using SFT &amp; RLHF techniques</li>
+        <li>Executed HITL (Human-in-the-Loop) evaluation workflows at scale</li>
+        <li>Maintained <strong>95%+</strong> response quality adherence across evaluation batches</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏛️ Student Intern — Vaishno Devi Shrine Board</h3>
+      <img src="https://img.shields.io/badge/Feb%202025-Mar%202025-9E9E9E?style=flat-square" />
+      <ul>
+        <li>Built RFID-based visitor flow automation for <strong>10,000+ daily visitors</strong></li>
+        <li>Reduced entry congestion by <strong>10%</strong> through automated tracking pipeline</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
