@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class NikhilKumar:
@@ -156,7 +156,7 @@ me.say_hi()
 <table>
   <tr>
     <td>
-      <h3>🤖 LLM Post-Training Intern — <a href="http://Ethara.AI">Ethara.AI</a></h3>
+      <h3> LLM Post-Training Intern — <a href="http://Ethara.AI">Ethara.AI</a></h3>
       <img src="https://img.shields.io/badge/Jan%202026-Present-4FC3F7?style=flat-square" />
       <ul>
         <li>Improved model alignment by <strong>25%</strong> using SFT &amp; RLHF techniques</li>
@@ -167,11 +167,32 @@ me.say_hi()
   </tr>
   <tr>
     <td>
-      <h3>🏛️ Student Intern — Vaishno Devi Shrine Board</h3>
+      <h3> Student Intern — Shri Mata Vaishno Devi Shrine Board</h3>
       <img src="https://img.shields.io/badge/Feb%202025-Mar%202025-9E9E9E?style=flat-square" />
       <ul>
         <li>Built RFID-based visitor flow automation for <strong>10,000+ daily visitors</strong></li>
         <li>Reduced entry congestion by <strong>10%</strong> through automated tracking pipeline</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3> Industrial Trainee — Larsen &amp; Toubro (L&amp;T)</h3>
+      <img src="https://img.shields.io/badge/May%202025-Patna%2C%20Bihar-FF6B35?style=flat-square" />
+      <ul>
+        <li>Completed hands-on training at the prestigious <strong>6-Lane Ganga Bridge Project</strong></li>
+        <li>Focused on integration of <strong>technology and safety solutions</strong> in large-scale infrastructure</li>
+        <li>Gained practical experience in real-world construction environments, sharpening technical and problem-solving skills</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3> Student Intern — National Institute of Technology (NIT), Patna</h3>
+      <img src="https://img.shields.io/badge/June%202024-Patna%2C%20Bihar-1E88E5?style=flat-square" />
+      <ul>
+        <li>Developed a <strong>proof-of-concept web application</strong> integrating an AI model for health prediction</li>
+        <li>Implemented <strong>real-time data retrieval</strong> from hospital databases for live prediction inference</li>
       </ul>
     </td>
   </tr>
